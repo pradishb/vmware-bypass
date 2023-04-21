@@ -1,0 +1,121 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Class\{4D36E968-E325-11CE-BFC1-08002BE10318}\0000]
+"InfPath"="display.inf"
+"InfSection"="MSBDA"
+"ProviderName"="Advanced Micro Devices, Inc."
+"DriverDateData"=hex:00,80,8c,a3,c5,94,c6,01
+"DriverDate"="6-21-2006"
+"DriverVersion"="6.3.9600.16384"
+"MatchingDeviceId"="pci\\cc_0300"
+"DriverDesc"="AMD Radeon(TM) Graphics"
+"FeatureScore"=dword:000000fb
+"HardwareInformation.ChipType"="AMD Radeon Graphics Processor (0x1638)"
+"HardwareInformation.DacType"="Internal DAC(400MHz)"
+"HardwareInformation.AdapterString"="AMD Radeon(TM) Graphics"
+"HardwareInformation.BiosString"=""
+"HardwareInformation.MemorySize"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Class\{4D36E968-E325-11CE-BFC1-08002BE10318}\0000\Settings]
+"InstalledDisplayDrivers"=hex(7):76,00,67,00,61,00,00,00,66,00,72,00,61,00,6d,\
+  00,65,00,62,00,75,00,66,00,00,00,76,00,67,00,61,00,32,00,35,00,36,00,00,00,\
+  76,00,67,00,61,00,36,00,34,00,6b,00,00,00,00,00
+"VgaCompatible"=dword:00000001
+"Device Description"="AMD Radeon(TM) Graphics"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Video\{EA64FA14-A785-43EA-A4DC-5E9EDA4CCC38}\0000]
+"InfPath"="display.inf"
+"InfSection"="MSBDA"
+"ProviderName"="Advanced Micro Devices, Inc."
+"DriverDateData"=hex:00,80,8c,a3,c5,94,c6,01
+"DriverDate"="6-21-2006"
+"DriverVersion"="6.3.9600.16384"
+"MatchingDeviceId"="pci\\cc_0300"
+"DriverDesc"="AMD Radeon(TM) Graphics"
+"FeatureScore"=dword:000000fb
+"HardwareInformation.ChipType"="AMD Radeon Graphics Processor (0x1638)"
+"HardwareInformation.DacType"="Internal DAC(400MHz)"
+"HardwareInformation.AdapterString"="AMD Radeon(TM) Graphics"
+"HardwareInformation.BiosString"=""
+"HardwareInformation.MemorySize"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet002\Control\Class\{4D36E968-E325-11CE-BFC1-08002BE10318}\0000]
+"InfPath"="display.inf"
+"InfSection"="MSBDA"
+"ProviderName"="Advanced Micro Devices, Inc."
+"DriverDateData"=hex:00,80,8c,a3,c5,94,c6,01
+"DriverDate"="6-21-2006"
+"DriverVersion"="6.3.9600.16384"
+"MatchingDeviceId"="pci\\cc_0300"
+"DriverDesc"="AMD Radeon(TM) Graphics"
+"FeatureScore"=dword:000000fb
+"HardwareInformation.ChipType"="AMD Radeon Graphics Processor (0x1638)"
+"HardwareInformation.DacType"="Internal DAC(400MHz)"
+"HardwareInformation.AdapterString"="AMD Radeon(TM) Graphics"
+"HardwareInformation.BiosString"=""
+"HardwareInformation.MemorySize"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet002\Control\Class\{4D36E968-E325-11CE-BFC1-08002BE10318}\0000\Settings]
+"InstalledDisplayDrivers"=hex(7):76,00,67,00,61,00,00,00,66,00,72,00,61,00,6d,\
+  00,65,00,62,00,75,00,66,00,00,00,76,00,67,00,61,00,32,00,35,00,36,00,00,00,\
+  76,00,67,00,61,00,36,00,34,00,6b,00,00,00,00,00
+"VgaCompatible"=dword:00000001
+"Device Description"="AMD Radeon(TM) Graphics"
+
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet002\Control\Video\{EA64FA14-A785-43EA-A4DC-5E9EDA4CCC38}\0000]
+"InfPath"="display.inf"
+"InfSection"="MSBDA"
+"ProviderName"="Advanced Micro Devices, Inc."
+"DriverDateData"=hex:00,80,8c,a3,c5,94,c6,01
+"DriverDate"="6-21-2006"
+"DriverVersion"="6.3.9600.16384"
+"MatchingDeviceId"="pci\\cc_0300"
+"DriverDesc"="AMD Radeon(TM) Graphics"
+"FeatureScore"=dword:000000fb
+"HardwareInformation.ChipType"="AMD Radeon Graphics Processor (0x1638)"
+"HardwareInformation.DacType"="Internal DAC(400MHz)"
+"HardwareInformation.AdapterString"="AMD Radeon(TM) Graphics"
+"HardwareInformation.BiosString"=""
+"HardwareInformation.MemorySize"=dword:00000000
+
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4D36E968-E325-11CE-BFC1-08002BE10318}\0000]
+"InfPath"="display.inf"
+"InfSection"="MSBDA"
+"ProviderName"="Advanced Micro Devices, Inc."
+"DriverDateData"=hex:00,80,8c,a3,c5,94,c6,01
+"DriverDate"="6-21-2006"
+"DriverVersion"="6.3.9600.16384"
+"MatchingDeviceId"="pci\\cc_0300"
+"DriverDesc"="AMD Radeon(TM) Graphics"
+"FeatureScore"=dword:000000fb
+"HardwareInformation.ChipType"="AMD Radeon Graphics Processor (0x1638)"
+"HardwareInformation.DacType"="Internal DAC(400MHz)"
+"HardwareInformation.AdapterString"="AMD Radeon(TM) Graphics"
+"HardwareInformation.BiosString"=""
+"HardwareInformation.MemorySize"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4D36E968-E325-11CE-BFC1-08002BE10318}\0000\Settings]
+"InstalledDisplayDrivers"=hex(7):76,00,67,00,61,00,00,00,66,00,72,00,61,00,6d,\
+  00,65,00,62,00,75,00,66,00,00,00,76,00,67,00,61,00,32,00,35,00,36,00,00,00,\
+  76,00,67,00,61,00,36,00,34,00,6b,00,00,00,00,00
+"VgaCompatible"=dword:00000001
+"Device Description"="AMD Radeon(TM) Graphics"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Video\{EA64FA14-A785-43EA-A4DC-5E9EDA4CCC38}\0000]
+"InfPath"="display.inf"
+"InfSection"="MSBDA"
+"ProviderName"="Advanced Micro Devices, Inc."
+"DriverDateData"=hex:00,80,8c,a3,c5,94,c6,01
+"DriverDate"="6-21-2006"
+"DriverVersion"="6.3.9600.16384"
+"MatchingDeviceId"="pci\\cc_0300"
+"DriverDesc"="AMD Radeon(TM) Graphics"
+"FeatureScore"=dword:000000fb
+"HardwareInformation.ChipType"="AMD Radeon Graphics Processor (0x1638)"
+"HardwareInformation.DacType"="Internal DAC(400MHz)"
+"HardwareInformation.AdapterString"="AMD Radeon(TM) Graphics"
+"HardwareInformation.BiosString"=""
+"HardwareInformation.MemorySize"=dword:00000000
+
